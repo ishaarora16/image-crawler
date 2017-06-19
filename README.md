@@ -1,5 +1,4 @@
-
-Image Crawler
+ Image Crawler
 
 This app takes an url from the user download all images the url contains under an 'image' folder
 
@@ -9,5 +8,7 @@ Image Crawler uses python's ***flask*** for the front end.
 ## process
 (type in the command promt)
 	python3 main.py
-	go to http://localhost:5000/ in your browser
+	got to http://localhost:5000/ in your browser
 	enter URL and wait.
+
+
